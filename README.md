@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🌱 I’m currently an undergraduate in Statistics
+- 🌱 I’m currently an undergraduate student in Statistics
 - 👯 I’m looking to collaborate on image generation and reinforcement learning
 - 📫 How to reach me: [email](safalyaglobal@gmail.com)
 - 😄 Pronouns: He/Him
