@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: "Data Scientist" is not a real position 
 
 ![L3's github stats](https://github-readme-stats.vercel.app/api?username=l3th4l&show_icons=true&include_all_commits=true&theme=synthwave)
-
+  
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 <!--  
 #### Featured Repositories 
 [![Cancer Detection](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=CancerDetection&theme=synthwave)](https://github.com/l3th4l/CancerDetection)
