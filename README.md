@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![L3's github stats](https://github-readme-stats.vercel.app/api?username=l3th4l&show_icons=true&include_all_commits=true&theme=synthwave)
   
 #### Featured Repositories 
-![Cancer Detection](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=CancerDetection&theme=synthwave)]
-![VAE-SRCNN](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=VAE-SRCNN&theme=synthwave)]
-![DDVAE](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=DDVAE&theme=synthwave)]
-![emojigan](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=emojigan&theme=synthwave)]
-![SuperRes](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=SuperRes&theme=synthwave)]
-![RL-Notebooks](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=RL-Notebooks&theme=synthwave)]
+![Cancer Detection](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=CancerDetection&theme=synthwave)
+![VAE-SRCNN](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=VAE-SRCNN&theme=synthwave)
+![DDVAE](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=DDVAE&theme=synthwave)
+![emojigan](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=emojigan&theme=synthwave)
+![SuperRes](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=SuperRes&theme=synthwave)
+![RL-Notebooks](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=RL-Notebooks&theme=synthwave)
