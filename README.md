@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: "Data Scientist" is not a real position 
 
 ![L3's github stats](https://github-readme-stats.vercel.app/api?username=l3th4l&show_icons=true&include_all_commits=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3th4l&langs_count=3&hide=ShaderLab,HLSL,ASP&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3th4l&langs_count=4&hide=ShaderLab,HLSL,ASP&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
