@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "Data Scientist" is not a real position 
 
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\int_{-\ifty}^{\ifty} " /> 
+
 ![L3's github stats](https://github-readme-stats.vercel.app/api?username=l3th4l&show_icons=true&include_all_commits=true&theme=synthwave)
 
 <!--  
