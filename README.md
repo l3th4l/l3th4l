@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently an undergraduate student in Statistics
 - 👯 I’m looking to collaborate on image generation and reinforcement learning
-- 📫 How to reach me: [email](safalyaglobal@gmail.com)
+- 📫 How to reach me: [email](mailto:safalyaglobal@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "Data Scientist" is not a real position 
 
