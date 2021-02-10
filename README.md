@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: "Data Scientist" is not a real position 
 
 ![L3's github stats](https://github-readme-stats.vercel.app/api?username=l3th4l&show_icons=true&include_all_commits=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3th4l&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3th4l&exclude=ASP,ShaderLab,HLSL&theme=synthwave)
 <!--    
 #### Featured Repositories 
 [![Cancer Detection](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=CancerDetection&theme=synthwave)](https://github.com/l3th4l/CancerDetection)
