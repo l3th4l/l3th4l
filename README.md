@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: "Data Scientist" is not a real position 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3th4l&hide=ASP,ShaderLab,HLSL&theme=synthwave)
+
 -->
 
 - 🌱 I’m currently an undergraduate student in Statistics
@@ -16,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 ![L3's github stats](https://github-readme-stats.vercel.app/api?username=l3th4l&show_icons=true&include_all_commits=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3th4l&hide=ASP,ShaderLab,HLSL&theme=synthwave)
+
 <!--    
 #### Featured Repositories 
 [![Cancer Detection](https://github-readme-stats.vercel.app/api/pin/?username=l3th4l&repo=CancerDetection&theme=synthwave)](https://github.com/l3th4l/CancerDetection)
