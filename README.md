@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently an undergraduate student in Statistics
-- 👯 I’m looking to collaborate on image generation and reinforcement learning
+- 🌱 undergraduate student in Statistics
+- 👯 looking to collaborate on image generation and reinforcement learning
 - 📫 How to reach me: [email](mailto:safalyaglobal@gmail.com)
 - 😄 Pronouns: He/Him
 
