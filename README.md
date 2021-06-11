@@ -4,19 +4,21 @@
 **l3th4l/l3th4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
+
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
-- ⚡ Fun fact: "Data Scientist" is not a real position 
+- 😄 Pronouns: He/Him
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3th4l&hide=ASP,ShaderLab,HLSL&theme=synthwave)
 
 -->
 
 - 🌱 undergraduate student in Statistics
+- 🔭 I’m currently working on ML for microfinance 
+- ⚡ Fun fact: "Data Scientist" is not a real position 
 - 👯 looking to collaborate on image generation and reinforcement learning
 - 📫 How to reach me: [email](mailto:safalyaglobal@gmail.com)
-- 😄 Pronouns: He/Him
+
 
 ![L3's github stats](https://github-readme-stats.vercel.app/api?username=l3th4l&show_icons=true&include_all_commits=true&theme=synthwave)
 
