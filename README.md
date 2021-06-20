@@ -1,6 +1,6 @@
 ### Hi there! I'm L3th4l 👋
 
-![](https://komarev.com/ghpvc/?username=L3th4l&style=flat-square&color=purple)
+![](https://komarev.com/ghpvc/?username=L3th4l&style=flat-square&color=lightgrey)
 
 <!--
 **l3th4l/l3th4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
