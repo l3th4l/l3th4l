@@ -9,14 +9,14 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him- 
+🔭 I’m currently working on ML for microfinance 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3th4l&hide=ASP,ShaderLab,HLSL&theme=synthwave)
 
 -->
 
 - 🌱 undergraduate student in Statistics
-- 🔭 I’m currently working on ML for microfinance 
 - ⚡ Fun fact: "Data Scientist" is not a real position 
 - 👯 looking to collaborate on image generation and reinforcement learning
 - 📫 How to reach me: [email](mailto:safalyaglobal@gmail.com)
