@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 undergraduate student in Statistics
+- 🌱 Undergraduate student in Statistics
 - ⚡ Fun fact: "Data Scientist" is not a real position 
 - 👯 looking to collaborate on image generation and reinforcement learning
 - 📫 How to reach me: [email](mailto:safalyaglobal@gmail.com)
