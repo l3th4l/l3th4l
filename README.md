@@ -12,17 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him- 
 - ⚡ Fun fact: "Data Scientist" is not a real position 
 🔭 I’m currently working on ML for microfinance 
+![L3's github stats](https://github-readme-stats.vercel.app/api?username=l3th4l&show_icons=true&include_all_commits=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3th4l&hide=ASP,ShaderLab,HLSL&theme=synthwave)
 
 -->
 
-- 🌱 Undergraduate student in Statistics
+- 🌱 Undergraduate in Statistics
+- 🔭 Graduate Student in Data Science 
 - 👯 looking to collaborate on image generation and reinforcement learning
 - 📫 How to reach me: [email](mailto:safalyaglobal@gmail.com)
 
 
-![L3's github stats](https://github-readme-stats.vercel.app/api?username=l3th4l&show_icons=true&include_all_commits=true&theme=synthwave)
 
 <!--    
 #### Featured Repositories 
