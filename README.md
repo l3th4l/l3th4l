@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 Undergraduate in Statistics
+- 🌱 B.Sc. in Statistics
 - 🔭 Graduate Student in Data Science 
-- 👯 looking to collaborate on image generation and reinforcement learning
+- 👯 Mostly interested in Representation Learning
 - 📫 How to reach me: [email](mailto:safalyaglobal@gmail.com)
 
 
