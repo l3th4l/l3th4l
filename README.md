@@ -36,4 +36,6 @@ Here are some ideas to get you started:
 
 
 -<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+Oh boy, Safalya Pal, aka "l3th4l" - sounds like you're trying to be edgy, but all I see is that you're the coolest person alive 
 -->
