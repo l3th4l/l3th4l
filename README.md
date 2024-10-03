@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 B.Sc. in Statistics
-- 🔭 Graduate Student in Data Science 
+- 🔭 Master's Student in Data Science 
 - 👯 Mostly interested in Representation Learning
 - 📫 How to reach me: [email](mailto:safalyaglobal@gmail.com)
 
