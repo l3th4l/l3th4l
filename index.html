@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Safalya Pal – Profile</title>
+  <style>
+    *, *::before, *::after { box-sizing:border-box; margin:0; padding:0 }
+    body {
+      margin:0; padding:0;
+      font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+      color:#e8e8e8; overflow-x:hidden; position:relative; min-height:100vh;
+    }
+    /* Background */
+    body::before {
+      content:''; position:fixed; top:0; left:0;
+      width:100vw; height:100vh;
+      background:url('./images/bg_main.png') no-repeat center/cover;
+      background-color:#000;
+      z-index:-3; pointer-events:none;
+    }
+
+    /* Main content */
+    .content-wrapper {
+      min-height:100vh;
+      display:flex; flex-direction:column; align-items:center;
+      padding:5vh 1rem 8vh; gap:2.5rem;
+      background:rgba(0,0,0,0.1);
+    }
+    .header { text-align:center }
+    .header h1 {
+      font-size:clamp(2.4rem,5vw+.5rem,3.5rem);
+      font-weight:700; letter-spacing:.5px;
+    }
+    .header p { margin-top:.25rem; opacity:.8; font-size:.95rem }
+
+    .cards {
+      display:flex; flex-wrap:wrap; gap:1.5rem;
+      justify-content:center; width:100%; max-width:980px;
+      margin-bottom:10rem;
+    }
+    .card {
+      flex:1 1 260px; max-width:280px;
+      background:rgba(12,18,40,.8); border-radius:2rem;
+      backdrop-filter:blur(6px);
+      box-shadow:
+        0 0 0 2px rgba(255,255,255,.07),
+        0 12px 32px -10px #000 inset;
+      text-decoration:none; overflow:hidden;
+      transition:transform .35s ease,box-shadow .35s ease;
+      display:flex; flex-direction:column; align-items:center;
+    }
+    .card:hover {
+      transform:translateY(-6px) scale(1.02);
+      box-shadow:
+        0 0 0 2px rgba(255,255,255,.15),
+        0 22px 40px -10px #000 inset;
+    }
+    .card__visual {
+      width:100%; aspect-ratio:1/1; padding:1.5rem;
+      display:flex; justify-content:center; align-items:center;
+    }
+    .card__visual img {
+      width:100%; height:100%; object-fit:cover;
+      border-radius:1.5rem; border:2px solid rgba(255,255,255,.1);
+    }
+    .card__label {
+      padding:1rem; font-size:1.1rem; font-weight:600;
+      text-align:center;
+    }
+
+    .affiliations {
+      padding:5vh 2rem; width:100%; max-width:1000px;
+      text-align:center; background:rgba(0,0,0,0.0);
+      border-top:1px solid rgba(255,255,255,.1);
+    }
+    .affiliations h2 { font-size:1.8rem; margin-bottom:1rem; }
+
+    /* New: logo grid */
+    .affiliations__logos {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+      margin-top: 1rem;
+    }
+    .affiliations__logos img {
+    height: auto;
+    width: 40vh;
+    object-fit: contain;
+    transition: transform 0.2s ease;
+    }
+    .affiliations__logos a:hover img {
+      transform: scale(1.1);
+    }
+
+    @media(max-width:420px){ .card{flex:1 1 90%} }
+
+    /* Rocket + Trail wrapper, flush above smoke */
+    #rocket-wrapper {
+      position:fixed;
+      bottom:-21vh;
+      left:5vw;
+      display:flex; flex-direction:column; align-items:center;
+      z-index:-1; pointer-events:none;
+      transition:transform .2s ease-out;
+    }
+    #rocket {
+      width:60px; height:auto; display:block;
+    }
+    #rocket-trail {
+      width:20px; height:200px; margin-top:-10px;
+      opacity:.6;
+      transform-origin:top center;
+      transform:scaleY(0);
+      transition:transform .2s ease-out;
+      display:block;
+    }
+
+    /* Smoke, flush to bottom & aligned under wrapper */
+    #rocket-smoke {
+      position:fixed; bottom:0;
+      left:calc(5vw - 15px);
+      width:90px; height:70px;
+      opacity:.4; transform:scale(1);
+      transition:opacity .3s ease,transform .3s ease;
+      z-index:-2; pointer-events:none;
+    }
+
+    .invert {
+      filter: invert(1);
+    }
+
+    .white-logo {
+      filter: brightness(0) invert(1);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Rocket + Trail -->
+  <div id="rocket-wrapper">
+    <img id="rocket" src="./images/rocket.png" alt="Rocket"/>
+    <svg id="rocket-trail" viewBox="0 0 20 200"
+         xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="trailGrad" x1="0" y1="0"
+                        x2="0" y2="1">
+          <stop offset="0%"  stop-color="#fff" stop-opacity=".6"/>
+          <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <path d="M10,0 L15,180 L5,180 Z"
+            fill="url(#trailGrad)"/>
+    </svg>
+  </div>
+
+  <!-- Smoke -->
+  <svg id="rocket-smoke" viewBox="0 0 120 100"
+       xmlns="http://www.w3.org/2000/svg">
+    <g fill="white" opacity=".4">
+      <circle cx="40" cy="60" r="20"/>
+      <circle cx="60" cy="50" r="25"/>
+      <circle cx="80" cy="60" r="20"/>
+      <circle cx="50" cy="70" r="15"/>
+      <circle cx="70" cy="70" r="15"/>
+      <circle cx="60" cy="75" r="10"/>
+    </g>
+  </svg>
+
+  <div class="content-wrapper">
+    <header class="header">
+      <h1>Safalya Pal</h1>
+      <p>Write an about me here</p>
+    </header>
+
+    <main class="cards">
+      <a class="card" href="photos.html">
+        <div class="card__visual"><img src="./images/photos.png" alt="Photos"/></div>
+        <div class="card__label">Photos</div>
+      </a>
+      <a class="card" href="articles.html">
+        <div class="card__visual"><img src="./images/articles.png" alt="Articles"/></div>
+        <div class="card__label">Articles</div>
+      </a>
+      <a class="card" href="research.html">
+        <div class="card__visual"><img src="./images/research.png" alt="Research"/></div>
+        <div class="card__label">Research<br/>Interests</div>
+      </a>
+    </main>
+
+    <section class="affiliations">
+      <h2>Affiliations</h2>
+      <div class="affiliations__logos">
+        <a href="https://www.xyzuniversity.edu" target="_blank" rel="noopener">
+          <img class="white-logo" src="https://www.wp.rrze.fau.de/files/2021/11/fau-digital.svg" alt="XYZ University Logo"/>
+        </a>
+        <a href="https://www.dlr.de/en" target="_blank" rel="noopener">
+          <img class="white-logo" src="https://www.dlr.de/static/media/Logo-en.bc10c5b6.svg" alt="German Aerospace Center (DLR)"/>
+        </a>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const wrapper = document.getElementById("rocket-wrapper");
+    const trail   = document.getElementById("rocket-trail");
+    const smoke   = document.getElementById("rocket-smoke");
+    const maxOff  = window.innerHeight * 0.6;
+
+    window.addEventListener("scroll", () => {
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      const docH      = document.body.scrollHeight - window.innerHeight;
+      const pct       = Math.min(scrollTop / docH, 1);
+
+      wrapper.style.transform = `translateY(${-pct * maxOff}px)`;
+      trail.style.transform   = `scaleY(${Math.min(pct * 2,1)})`;
+      const fade = Math.min(1, pct * 3);
+      smoke.style.opacity     = `${1 - fade}`;
+      smoke.style.transform   = `scale(${1 - fade * 0.5})`;
+    });
+  </script>
+</body>
+</html>
