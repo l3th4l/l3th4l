@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - 🌱 B.Sc. in Statistics
 - 🔭 Master's Student in Data Science 
 - 👯 Mostly interested in Reinforcement Learning, Representation Learning and Out of Distribution Generalization 
-- 📫 How to reach me: [personal email](mailto:safalyaglobal@gmail.com), [university email](mailto:saf.pal@fau.de), [work email](mailto:safalya.pal@dlr.de)
-
+- 📫 How to reach me: [personal email](mailto:safalyaglobal@gmail.com),
 
 <!--    
 #### Featured Repositories 
