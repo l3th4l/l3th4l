@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 B.Sc. in Statistics
-- 🔭 Master's Student in Data Science 
-- 👯 Mostly interested in Reinforcement Learning, Representation Learning and Out of Distribution Generalization 
+- 🔭 M.Sc. in Data Science 
+- 👯 Specialized in Reinforcement Learning, Representation Learning and Trustworthy AI
 - 📫 How to reach me: [personal email](mailto:safalyaglobal@gmail.com),
 
 <!--    
