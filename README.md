@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 - 🌱 B.Sc. in Statistics
 - 🔭 M.Sc. in Data Science 
-- 👯 Specialized in Reinforcement Learning, Representation Learning and Trustworthy AI
+- 📃 Specialized in Reinforcement Learning, Representation Learning and Trustworthy AI
+- 🔍 Interested in Fully Homomorphic Encryption and Cryptography in general
 - 📫 How to reach me: [personal email](mailto:safalyaglobal@gmail.com),
 
 <!--    
